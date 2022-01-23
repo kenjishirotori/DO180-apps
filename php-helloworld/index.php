@@ -1,3 +1,4 @@
 <?php
-print "Hello, World! php version is " . DATE . PHP_VERSION . "\n";
+print "Hello, World! php version is " . PHP_VERSION . "\n";
+print(date('Y m d').'<br>');
 ?>
